@@ -1,5 +1,5 @@
 # Thai Translation for Helltaker | เฮลเทกเกอร์ ฉบับภาษาไทย
-![รูปภาพประกอบเกม Helltaker](https://steamcdn-a.akamaihd.net/steam/apps/1289310/header.jpg?t=1590209053)
+<iframe src="https://store.steampowered.com/widget/1289310/" frameborder="0" width="646" height="190"></iframe>
 
 หากท่านพบเจอข้อผิดพลาดทางการแปลท่านสามารถทำการแจ้งไว้ใน Issues หรือ Pull Requests ได้เลย
 หรือคอมเมนต์ไว้ที่ https://steamcommunity.com/app/1289310/discussions/1/2248931052736341756
